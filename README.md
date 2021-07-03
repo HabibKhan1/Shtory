@@ -1,8 +1,8 @@
 README.md for shtory - a bash adventure game.
 This file contains the rules for the game and how to play.
 
-To start, simply type "cd start"
-Then, type "cat story" to begin. The document will lead you to the following levels. 
+To start, simply go to the directory that shtory is stored in and type "chmod +x shtory"
+Then, type "./shtory" to begin. The document will lead you to the following levels. 
 
 Banned commands : 
 
