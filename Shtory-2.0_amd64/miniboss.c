@@ -12,7 +12,9 @@ int main (void)
     if (x == 2)
     {
         printf("You delt 100 damage to the boss. You won!\n");
-        printf("Your passkey is: A!@65hzRX1\n");
+        printf("Your passkey is: A!@65hzRX1 \n\n");
+        printf ("Type: ./lvl2 and put in your passkey to advance to the next level. \n");
+    
     }
     else
     {
@@ -20,5 +22,6 @@ int main (void)
         printf("Try again\n");
     }
 
+    
     return 0;
 }
