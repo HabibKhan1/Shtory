@@ -14,5 +14,5 @@ Then, type "./shtory" to begin. The document will lead you to the following leve
 - We are planning to add files to store progress.
 
 # Additional notes
-- We haven't added the "shtory" executable file yet, mentioned in the [Starting](https://github.com/HabibKhan1/Shtory/blob/main/README.md#intro) section. 
+- We haven't added the "shtory" executable file yet.
 - Please note that this is all BETA!
