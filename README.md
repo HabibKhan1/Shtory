@@ -16,3 +16,4 @@ Then, type "./shtory" to begin. The document will lead you to the following leve
 # Additional notes
 - We haven't added the "shtory" executable file yet.
 - Please note that this is all BETA!
+- Level 3 is still in the making.
