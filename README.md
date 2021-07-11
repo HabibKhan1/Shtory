@@ -1,5 +1,5 @@
 # Intro
-README.md for Shtory - a bash adventure game.
+README.md for Shtory - a bash adventure game (written in C).
 This file contains the rules for the game and how to play.
 
 # Starting
