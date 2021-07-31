@@ -17,8 +17,8 @@ int main (void)
 	}
 
 	printf("This time, there will be one question. However, this one is a bit tricky!\n");
-	printf("What languages can natively use the ncurses library (without any system calls or anything of that sort)?"\n);
-	printf("1. C++ only\n2. C and C++\n3. C only");
+	printf("What languages can natively use the ncurses library (without any system calls or anything of that sort)?\n");
+	printf("1. C++ only\n2. C and C++\n3. C only\n");
 	scanf("%i", &choice);
 
 	if (choice == 2)
