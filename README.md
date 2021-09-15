@@ -8,7 +8,7 @@ To start, simply go to the directory that shtory is stored in and type "chmod +x
 Then, type "./shtory" to begin. The document will lead you to the following levels. 
 
 # Obtaining Shtory binaries
-Shtory binaries can be obtained here[https://github.com/HabibKhan1/Shtory-binaries].
+Shtory binaries can be obtained here(https://github.com/HabibKhan1/Shtory-binaries).
 
 # Additional notes
 - We haven't added the "shtory" executable file yet.
